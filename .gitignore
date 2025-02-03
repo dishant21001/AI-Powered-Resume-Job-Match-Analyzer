@@ -1,0 +1,18 @@
+# Ignore virtual environment
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore NLP models (they can be downloaded again)
+models/
+
+# Ignore logs
+*.log
+
+# Ignore Streamlit cache
+.streamlit/
